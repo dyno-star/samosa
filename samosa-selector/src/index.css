@@ -33,6 +33,12 @@ body {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+  color: aliceblue;
+}
+h2 {
+  font-size: 1.4em;
+  line-height: 1.2;
+  color: #f9f9f9;
 }
 
 button {
@@ -54,10 +60,10 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
-@media (prefers-color-scheme: light) {
+@media (prefers-color-scheme: dark) {
   :root {
     color: #213547;
-    background-color: #ffffff;
+    background-color: #1a1a1a;
   }
   a:hover {
     color: #747bff;
