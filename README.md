@@ -1,5 +1,11 @@
 🍤 Samosa Selector 🥟
-Welcome to Samosa Selector! 🚀 A delicious twist on Cookie Clicker, this React app lets you pile up virtual samosas with every click. Numbers going up? Infinite satisfaction? Yes, please! 😋 (Sorry, no real samosas to munch on 😅.)
+Welcome to Samosa Selector! 🚀
+
+A delicious twist on Cookie Clicker, this React app lets you pile up virtual samosas with every click.
+
+Numbers going up? Infinite satisfaction? Yes, please! 😋
+
+(Sorry, no real samosas to munch on 😅.)
 
 🎯 What’s It About?
 Click to stack those samosas! 📈
@@ -18,4 +24,7 @@ Start clicking! 🍤
 Click like there’s no tomorrow! 🥟
 Test your powerups—feel the power! 💥
 Enjoy the ride, samosa master! 😄
-Happy clicking! 🌟 Let’s make those samosa numbers soar! 📊
+Happy clicking! 🌟
+
+Let’s make those samosa numbers soar! 📊
+
