@@ -47,3 +47,18 @@
   margin: auto;
   text-align: center;
 }
+
+.container {
+  display: flex;
+  margin: 50px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.upgrade {
+  border: 1px solid rgba(153, 153, 253, 0.497);
+  padding: 20px;
+  margin-right: 25px;
+  width: 200px;
+  line-height: 0.5;
+}
