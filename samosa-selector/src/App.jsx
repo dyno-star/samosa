@@ -15,6 +15,9 @@ const App = () => {
         <div className='upgrade'>
           <h3>Upgrade</h3>
           <p>Description of upgrade</p>
+          <button>
+            Cost of samosa
+          </button>
         </div>
         </div>
       <header className="App-header">
