@@ -11,6 +11,12 @@ const App = () => {
 
   return (
     <div className="App">
+      <div className="container">
+        <div className='upgrade'>
+          <h3>Upgrade</h3>
+          <p>Description of upgrade</p>
+        </div>
+        </div>
       <header className="App-header">
         <h1>Samosa Selector</h1>
         <h2> Count: {count}</h2>
